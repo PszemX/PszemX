@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Well-organized, highly-motivated and creative software developer from Poland. <br><br>- 🎂 23.09.2002 | Birthday<br>- 🎓 23.02.2025 | Bachelor Degree<br><br><br><br><br><br>‎</p>
+<p align="left">Well-organized, highly-motivated and creative software developer from Poland. <br><br>🎂 23.09.2002 | Birthday<br>🎓 23.02.2025 | Bachelor Degree<br><br><br><br><br><br>‎</p>
 
 ###
 
@@ -151,6 +151,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PszemX/PszemX/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PszemX/PszemX/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PszemX/PszemX/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PszemX/PszemX/output/github-snake.svg" />
+</picture>
 
 ###
