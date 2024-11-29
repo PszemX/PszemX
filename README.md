@@ -23,9 +23,7 @@
 
 ###
 
-<div align="center">
-  <img height="900" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
@@ -33,7 +31,7 @@
 
 ###
 
-<p align="left">Well-organized, highly-motivated and creative software developer from Poland. <br><br>- 🎂 23.09.2002 | Birthday<br>- 🎓 23.02.2025 | Bachelor Degree</p>
+<p align="left">Well-organized, highly-motivated and creative software developer from Poland. <br><br>- 🎂 23.09.2002 | Birthday<br>- 🎓 23.02.2025 | Bachelor Degree<br><br><br><br><br><br>‎</p>
 
 ###
 
@@ -75,11 +73,11 @@
 
 ###
 
-<h3 align="right">⚒️ Tools</h3>
+<h3 align="left">⚒️ Tools</h3>
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -115,11 +113,11 @@
 
 ###
 
-<h3 align="right">🛢 Databases</h3>
+<h3 align="left">🛢 Databases</h3>
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -148,7 +146,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=PszemX&theme=buddhism&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=PszemX&theme=buddhism&column=9&row=3&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
